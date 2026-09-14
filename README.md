@@ -35,48 +35,6 @@
 
 **Excel** • **SQL / MySQL** • **Power BI** • **Python** • **Pandas** • **Statistics** • **Data Visualization**
 
-### 📈 Excel Skills
-
-* XLOOKUP / VLOOKUP / HLOOKUP
-* IF, SUMIFS, COUNTIFS
-* Pivot Tables & Pivot Charts
-* Conditional Formatting
-* Data Cleaning & Validation
-* Interactive Dashboards
-
-### 🗄️ SQL Skills
-
-* SELECT, WHERE, GROUP BY, HAVING
-* JOINs
-* Subqueries
-* CTEs
-* Window Functions
-* Views
-* Stored Procedures
-* Aggregate Functions
-* Data Cleaning & Analysis
-
-### 🐍 Python Skills
-
-* Python Fundamentals
-* Pandas
-* NumPy
-* Data Cleaning
-* Data Transformation
-* Exploratory Data Analysis (EDA)
-* Data Visualization
-
-### 📊 Power BI
-
-* Power Query
-* Data Cleaning & Transformation
-* Data Modeling
-* DAX
-* KPI Cards
-* Interactive Dashboards
-* Slicers & Filters
-* Business Intelligence
-
 ---
 
 ## 🚀 What I'm Currently Working On
