@@ -146,7 +146,10 @@
 </a>
 &nbsp;&nbsp;
 
-<a href="https://instagram.com/_deepak.prajapati_19" target="_blank"> <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" alt="Instagram"/> </a>
+<a href="https://instagram.com/_deepak.prajapati_19" target="_blank"> 
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" alt="Instagram"/>
+</a>
+&nbsp;&nbsp;
 
 </p>
 
