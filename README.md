@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Deepak Prajapati
+# 👋 Hi, I'm Deepak
 
 ### 📊 Aspiring Data Analyst | Excel • SQL • Power BI • Python
 
