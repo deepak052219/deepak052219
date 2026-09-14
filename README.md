@@ -95,68 +95,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-### 📊 Adventure Works — Power BI Dashboard
-
-**Tools:** Power BI • Power Query • DAX • Data Modeling
-
-* Created an interactive business intelligence dashboard
-* Analyzed sales, products, customers and business performance
-* Built KPI cards and interactive visualizations
-* Used Power Query for data transformation
-* Created DAX measures for business analysis
-
-🔗 **View Project:**
-`Add your repository link here`
-
----
-
-### 🛒 E-Commerce Sales & Customer Analytics
-
-**Tools:** Excel • MySQL • Python • Power BI
-
-* Cleaned and analyzed e-commerce sales data
-* Performed customer and product-level analysis
-* Used SQL for data extraction and business queries
-* Used Python for data cleaning and EDA
-* Created interactive dashboards for business insights
-
-🔗 **View Project:**
-`Add your repository link here`
-
----
-
-### 💰 Sales & Customer Analysis — Excel
-
-**Tools:** Microsoft Excel
-
-* Cleaned and transformed sales and customer data
-* Used XLOOKUP, VLOOKUP, IF, SUMIFS and COUNTIFS
-* Created Pivot Tables and Pivot Charts
-* Built an interactive sales dashboard
-* Analyzed revenue, customers, products and regions
-
-🔗 **View Project:**
-`Add your repository link here`
-
----
-
-### 🗄️ ClassicModels Sales Analysis — SQL
-
-**Tools:** MySQL
-
-* Analyzed customers, orders, products and employees
-* Used JOINs, GROUP BY, aggregate functions and subqueries
-* Identified top customers and best-selling products
-* Analyzed sales performance and employee contribution
-* Generated business insights using SQL
-
-🔗 **View Project:**
-`Add your repository link here`
-
----
-
 ## 📚 Currently Learning
 
 ```text
@@ -188,27 +126,30 @@
 
 <p align="left">
 
-<a href="https://linkedin.com/in/deepak-deepak-41293542a">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+<a href="https://linkedin.com/in/deepak-deepak-41293542a" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://kaggle.com/deepak0522" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40" height="40" alt="Kaggle"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="mailto:deepakprajapati0522@gmail.com">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40" alt="Email"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.facebook.com/profile.php?id=100068139606592" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40" alt="Facebook"/>
+</a>
+&nbsp;&nbsp;
+
+<a href="https://instagram.com/_deepak.prajapati_19" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40" alt="Instagram"/>
 </a>
 
-<a href="https://kaggle.com/deepak0522">
-<img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-</a>
-
-<a href="mailto:[deepakprajapati0522@gmail.com](mailto:deepakprajapati0522@gmail.com)">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepak052219&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak052219&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -218,34 +159,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepak052219&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepak052219&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
-
-## 📈 My Data Analytics Journey
-
-```text
-Excel
-  ↓
-SQL / MySQL
-  ↓
-Python & Pandas
-  ↓
-Power BI
-  ↓
-Data Visualization
-  ↓
-Real-World Projects
-  ↓
-🚀 Data Analyst
-```
 
 ---
 
